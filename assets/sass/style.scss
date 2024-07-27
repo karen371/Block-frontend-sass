@@ -1,0 +1,22 @@
+// base
+@import "base/reset";
+@import "base/typography";
+
+//components
+
+@import "components/buttons";
+@import "components/inputs";
+@import "components/cards";
+
+//layouts
+
+@import "layout/form-login";
+@import "layout/header";
+@import "layout/footer";
+@import "layout/section_posts";
+@import "layout/detail";
+
+//pages
+
+@import "pages/index.scss";
+@import "pages/pag-principal.scss";
